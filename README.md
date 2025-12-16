@@ -6,4 +6,7 @@
 <h3 align="center"> Практика №5</h3>
 <h3 align="center">Тема: Подключение к PostgreSQL через database/sql. Выполнение простых запросов (INSERT, SELECT)</h3>
 
-## 1. Установили 
+## 1. Установка постгри 15
+
+<img width="717" height="566" alt="image" src="https://github.com/user-attachments/assets/b6032eaf-81c2-41ec-9564-d87f1422f464" />
+рандомный скриншот для вида
